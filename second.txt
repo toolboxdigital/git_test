@@ -3,3 +3,5 @@ This is my second text file.
 Adding some text.
 
 More text!
+
+This change should only appear in test_branch_1
